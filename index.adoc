@@ -6,23 +6,24 @@ _Manoel C. Silva Filho^1,2^; Raysa L. Oliveira^2^; Claudio C. Monteiro^1^; Pedro
 
 _^1^Departamento de Informática - http://www.ifto.edu.br[Instituto Federal de Educação do Tocantins (IFTO)]_. _^2^http://www.it.pt[Instituto de Telecomunicações (IT)] and http://di.ubi.pt[Departamento de Informática], http://www.ubi.pt[Universidade da Beira Interior (UBI)]._
 
-Cloud computing is an established technology which is everywhere, without users not even realizing it. It is usually the foundation for companies to provide online services which are accessible through the Internet, by means of mobile devices such as a smartphone, or a web browser in a conventional computer. It is founded in the principles of utility services such as water, electricity, gas and telephone, which are provided on demand and in a pay-per-use model. Such a technology has leveraged innovation in different economic sectors, like government and education, and encouraged entrepreneurship by enabling companies to quickly provide online services without the upfront costs of IT equipment acquisition. 
+Cloud computing is an established technology which is everywhere, without users not even realizing. It is usually the foundation for companies to provide services accessible through the Internet, by means of mobile devices such as a smartphone, or a web browser in a conventional computer. It is based on the same principles of utility services delivery such as water, electricity, gas and telephone, which are provided on demand and in a pay-per-use model. Such a technology has leveraged innovation in different economic sectors and encouraged entrepreneurship by enabling companies to quickly provide online services without the upfront costs of IT equipment acquisition. 
 
-The cloud is nothing more than multiple sets of highly-powerful computers, connected thought the Internet and distributed all around the globe. Each one of these sets is called a Datacenter and each computer is called a server. A cloud provider is the one having the main role of owning multiple datacenters to provide cloud computing services. The cloud provides an apparently infinite computing power which companies and individuals may use to provide additional services. This groundbreaking technology is result of academic and industry research. 
+The cloud is compounded of multiple sets of highly-powerful computers, connected thought the Internet and distributed all around the globe. These sets are called data centers and each computer is called a server. A cloud provider is one having the main role of owning multiple data centers to provide cloud computing services. This groundbreaking technology is result of academic and industry research. 
 
-However, considering the high dimension, complexity and inherent costs of using a cloud infrastructure, researches are frequently carried on through simulation environments. Simulation is common practice in different study fields. They enable a system such as a production line of a car manufacturer to be modeled in a reduced and controlled environment, which mimics the behavior of that system. This way, the system can be studied to detect issues, areas to be improved and to envision solutions.
+Considering the high dimension, complexity and inherent costs of using a cloud infrastructure, research is frequently carried on through simulation environments. Simulation is a common practice in different study fields. They enable a system, such as a production line of a car manufacturer, to be modeled in a reduced and controlled environment, mimicking the behavior of that system. This way, the system can be studied to detect issues, areas to be improved and to envision possible solutions.
 
-In this sense, CloudSim Plus is being developed as an open source, state-of-the-art cloud simulation tool, allowing modeling and simulation of cloud computing infrastructures. It is based on the most recent technologies and enforces the application of several software quality practices and methodologies to provide a tool with industry-standard quality.
+In this sense, CloudSim Plus is an open source, state-of-the-art cloud simulation tool which allows modeling and simulation of cloud computing infrastructures. It is based on the most recent technologies and enforces the application of several software quality practices and methodologies to provide a tool for scientific research with industry-standard quality. 
 
 CloudSim Plus has an extensive list of features which are described in the official website. It enables modeling and simulation of:
 
 - cloud computing physical and logical infrastructures, including servers, network connections and services; 
 - cloud customers and their cloud hosted services;
-- end-users and load their access to hosted services imposing on computing resources;
+- end-users and load their access to hosted services imposing on computing resources.
 
 The tool has built-in monitoring features, enabling a research to keep track of simulation execution and collect data to be assessed to guide the development of proposed solutions for investigated issues. It also allows implementation and assessment of different policies for management of cloud computing resources, aiming to meet provider, customers and end-users goals such as:
 
 - reduction of energy consumption, carbon emissions and financial costs for providers;
 - optimization of computing resource usages to avoid both resource wastage and overbooking;
-- quality of service assurance for customers and their end-users;
+- quality of service assurance for customers and their end-users.
 
+The efforts on developing CloudSim Plus have been recognized by the EU/Brasil Cloud Forum and partial results from the research behind it were published on the IFIP/IEEE International Symposium on Integrated Network Management.
