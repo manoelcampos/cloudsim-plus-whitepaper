@@ -1,7 +1,7 @@
 = CloudSim Plus: A Modern, Full-Featured, Highly Extensible and Easier-to-Use Tool for Modeling and Simulation of Cloud Computing Infrastructures and Services.
 :homepage: http://cloudsimplus.org
 
-This is an article for the Newsletter of the  http://www.it.pt[Portuguese Instituto de Telecomunicações (IT)].
+This is a http://cloudsimplus.org[CloudSim Plus] article for the Newsletter of the  http://www.it.pt[Portuguese Instituto de Telecomunicações (IT)].
 The article is available link:index.adoc[here].
 
 See the other branches for different articles.
