@@ -12,18 +12,18 @@ The cloud is compounded of multiple sets of highly-powerful computers, connected
 
 Considering the high dimension, complexity and inherent costs of using a cloud infrastructure, research is frequently carried on through simulation environments. Simulation is a common practice in different study fields. They enable a system, such as a car manufacturer production line, to be modeled in a reduced and controlled environment, mimicking the behavior of that system. This way, the system can be studied to detect issues, areas to be improved and to envision possible solutions.
 
-In this sense, CloudSim Plus is an open source, state-of-the-art cloud simulation software which allows modeling and simulation of cloud computing infrastructures. It is based on the most recent technologies, programming languages and tools, applying several software quality practices and methodologies to provide a tool for scientific research with industry-standard quality. 
+In this sense, CloudSim Plus is an open source, state-of-the-art cloud simulation software which allows modeling and simulation of cloud computing infrastructures. It is based on the most recent technologies, programming languages and tools, applying several software quality practices and methodologies to provide a reliable software for scientific research with industry-standard quality. 
 
 CloudSim Plus has an extensive list of features which are described in the official website, enabling modeling and simulation of:
 
 - cloud computing physical and logical infrastructures, including servers, network connections and services; 
 - cloud customers and their cloud hosted services;
-- end-users and load their access to hosted services imposing on computing resources.
+- load imposed on computing resources by access of end-users to hosted services.
 
-The tool has built-in monitoring features, allowing a researcher to keep track of simulation execution, investigate issues and collect scientific data to guide the development of potential solutions. It also allows implementation and assessment of different policies for management of cloud computing resources, aiming to meet provider, customers and end-users' goals, such as:
+It has built-in monitoring features, allowing a researcher to keep track of simulation execution, investigate issues and collect scientific data to guide the development of potential solutions. It also allows implementation and assessment of different policies for management of cloud computing resources, aiming to meet provider, customers and end-users' goals, such as:
 
 - reduction of energy consumption, carbon emissions and financial costs for providers;
 - optimization of computing resource usages to avoid both resource wastage and overbooking;
 - quality of service assurance for customers.
 
-The efforts on developing CloudSim Plus have been recognized by the EUBrasilCloudForum and partial results from the research behind it were published on the IFIP/IEEE International Symposium on Integrated Network Management.
+The efforts on developing CloudSim Plus have been recognized by the EUBrasilCloudForum and partial results from the research behind it were published on the IFIP/IEEE International Symposium on Integrated Network Management 2017.
