@@ -5,3 +5,8 @@ This is a http://cloudsimplus.org[CloudSim Plus] article for the Newsletter of t
 The article is available link:index.adoc[here].
 
 See the other branches for different articles.
+
+== AsciiDoctor Version
+ifdef::env-github[]
+GitHub is now running Asciidoctor {asciidoctor-version}.
+endif::[]
